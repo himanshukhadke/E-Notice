@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16590543745",
+    "firebase_url": "https://enotice-bff83.firebaseio.com",
+    "project_id": "enotice-bff83",
+    "storage_bucket": "enotice-bff83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16590543745:android:1f150faa56c0cfb185e680",
+        "android_client_info": {
+          "package_name": "com.example.enotice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16590543745-kmarv5gv7dfigjgdc46c1nob4thf8ntb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqoLvntay1n4dpMvQf0mgi-0Z_aZXgo8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16590543745-kmarv5gv7dfigjgdc46c1nob4thf8ntb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
