@@ -1,12 +1,20 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
+<LinearLayout android:layout_width="match_parent"
+    android:orientation="vertical"
     android:layout_height="match_parent"
-    android:gravity="center">
-
+    xmlns:android="http://schemas.android.com/apk/res/android">
     <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="This is Main Activity"
+        ></TextView>
+
+    <Button
+        android:id="@+id/btn_main_logout"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="This is main Page"
-        android:textSize="30sp" />
-</RelativeLayout>
+        android:text="Logout" />
+
+</LinearLayout>
