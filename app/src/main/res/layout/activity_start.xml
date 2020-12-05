@@ -8,7 +8,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="Welcome to E-Notice"
+        android:background="@drawable/img_notice"
         android:textSize="35sp"></TextView>
 
     <Button
